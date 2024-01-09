@@ -1,16 +1,15 @@
 
 
-# ![log64](./image/www/log64.png) 粒元 RPA
+## ![log64](./image/www/log64.png) 粒元 RPA
 
 **<font color=blue>粒元</font>** 是一款面向桌面、移动设备的自动化机器人，强大易用，一切可以规则描述的设备操作都可以用粒元替代完成，它可以成为你工作、学习、生活的智能助手。自主设计的自动化语言模型
 
-:spider_web: 官网： https://www.cxplan.cn/
-:octocat: github: https://github.com/cxplan/meta_bot
-:beetle:问题反馈:  https://github.com/cxplan/meta_bot/issues
-:book: 开发文档: https://www.cxplan.cn/doc/
+:spider_web: 官网： <https://www.cxplan.cn>
+:octocat: github: <https://github.com/cxplan/meta_bot>
+:beetle:问题反馈:  <https://github.com/cxplan/meta_bot/issues>
+:book: 开发文档: <https://www.cxplan.cn/doc/>
 
-
-# 产品特性：
+## 产品特性：
 
 1. **多平台支持**：支持Windows、Mac、Android等设备的自动化。
 2. **强大的移动自动化**：无需Root，既可以支持Android原生、web页面的自动化，支持不限于微信（基础沟通、小程序、公众号）、淘宝、京东、拼多多、闲鱼等主流应用的自动化。
@@ -24,7 +23,7 @@
 
 
 
-# 截图：
+## 截图：
 
 <img src="image/www/index/home1.png" alt="首页" style="zoom:20%;" />
 
@@ -38,7 +37,7 @@
 
 ![手机应用设计器](image/www/index/design_android.png)
 
-# 适用场景：
+## 适用场景：
 
 **封闭系统之间的数据依赖**：向A系统提交的数据，有部分来自于系统B，但系统B没有API。典型的场景如：闲鱼的商品上传，商品获取，各大电商平台的商品信息、评价信息，以及传统的财务软件、税务申报等。
 
@@ -60,7 +59,7 @@
 
 
 
-# 功能一览：
+## 功能一览：
 
 1. 网页自动化（跨平台的网页信息抓取、信息填写，安全稳定，无法被识别）
 2. 手机自动化:fire: (全网最强大易用的原生和web应用自动化)
@@ -83,13 +82,13 @@
 
 
 
-# 最新版本：
+## 最新版本：
 
 [V1.9.2](https://github.com/cxplan/meta_bot/releases/tag/1.9.2) [2024-01-4]
 
 
 
-# 用过都说好：
+## 用过都说好：
 
 > “使用起来非常简单，而且它的功能超出了我的预期。我强烈推荐给所有人！”
 >
@@ -115,7 +114,7 @@
 
 
 
-# 联系我们：
+## 联系我们：
 
 邮箱：cxplan_rpa@163.com
 
