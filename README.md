@@ -4,9 +4,9 @@
 
 **<font color=blue>粒元</font>** 是一款面向桌面、移动设备的自动化机器人，强大易用，一切可以规则描述的设备操作都可以用粒元替代完成，它可以成为你工作、学习、生活的智能助手。自主设计的自动化语言模型
 
-:spider_web: 官网： <https://www.cxplan.cn>
-:octocat: github: <https://github.com/cxplan/meta_bot>
-:beetle:问题反馈:  <https://github.com/cxplan/meta_bot/issues>
+:spider_web: 官网： <https://www.cxplan.cn><br>
+:octocat: github: <https://github.com/cxplan/meta_bot><br>
+:beetle:问题反馈:  <https://github.com/cxplan/meta_bot/issues><br>
 :book: 开发文档: <https://www.cxplan.cn/doc/>
 
 ## 产品特性：
